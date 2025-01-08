@@ -17,7 +17,7 @@ Flutter ile geliştirilmiş, sezgisel bir alışveriş deneyimi sunmak için tas
 👤 Kullanıcı profili ve ayar yönetimi.
 
 
-### Ekran görüntüleri 📸
+### Bazı Ekran görüntüleri 📸
 
 ![UygulamaGörselleri1](https://github.com/user-attachments/assets/70c193ea-ddaf-40c0-beab-fae2691c7d6e)
 
