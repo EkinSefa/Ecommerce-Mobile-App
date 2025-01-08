@@ -1,16 +1,62 @@
-# shopa
+# Mobil Alışveriş Uygulaması 📱🛒
 
-A new Flutter project.
+Flutter ile geliştirilmiş, sezgisel bir alışveriş deneyimi sunmak için tasarlanmış, özellik açısından zengin ve kullanıcı dostu bir mobil alışveriş uygulaması.
 
-## Getting Started
+### Özellikler 🌟
 
-This project is a starting point for a Flutter application.
+🛍️ Ürünleri kategorilere göre inceleyin.
 
-A few resources to get you started if this is your first Flutter project:
+🔍 Öğeleri hızlı bir şekilde bulmak için arama işlevi.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🛒 Ürünleri sepete ekleyin ve adetleri ayarlayın.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💳 Promosyon kodu desteğiyle ödeme süreci.
+
+❤️ Favori öğelerinizi daha sonra kullanmak üzere kaydedin.
+
+👤 Kullanıcı profili ve ayar yönetimi.
+
+
+### Ekran görüntüleri 📸
+
+![UygulamaGörselleri1](https://github.com/user-attachments/assets/70c193ea-ddaf-40c0-beab-fae2691c7d6e)
+
+
+
+![UygulamaGörselleri2](https://github.com/user-attachments/assets/a8e2cb39-eca8-42db-88d4-0256ee4e3217)
+
+### Kurulum 🚀
+Uygulamayı yerel olarak çalışır duruma getirmek için şu adımları izleyin:
+
+Ön koşullar
+Flutter bilgisayarınıza kuruldu ( kurulum kılavuzu ).
+Uyumlu IDE (örneğin, VS Code veya Android Studio).
+Test amaçlı emülatör veya fiziksel cihaz.
+####
+
+Depoyu klonlayın:
+
+git clone https://github.com/yourusername/mobile-shopping-app.git
+cd mobile-shopping-app
+
+
+### Depoyu klonlayın:
+
+```bash
+git clone https://github.com/yourusername/mobile-shopping-app.git
+cd mobile-shopping-app
+```
+
+### Bağımlılıkları kurun:
+
+```bash
+flutter pub get
+```
+
+### Uygulamayı bir emülatörde veya fiziksel cihazda çalıştırın:
+
+```bash
+flutter run
+```
+
+
